@@ -11,8 +11,8 @@ export default class Index extends React.Component {
         <Helmet
           title={config.siteTitle}
           meta={[
-            {"name": "description", "content": "Sample"},
-            {"name": "keywords", "content": "sample, something"},
+            {"name": "description", "content": "The Advanced AWS Meetup"},
+            {"name": "keywords", "content": "aws, amazon web services, meetup, advanced, san francisco, bay area"},
           ]}
         />
         <h1>
@@ -37,12 +37,6 @@ export default class Index extends React.Component {
           <li>
             <Link to={prefixLink('/json/')}>JSON</Link>
           </li>
-          <li>
-            <Link to={prefixLink('/yaml/')}>YAML</Link>
-          </li>
-          <li>
-            <Link to={prefixLink('/toml/')}>TOML</Link>
-          </li>
         </ul>
         <h3>Supported CSS processors</h3>
         <ul>
@@ -54,9 +48,6 @@ export default class Index extends React.Component {
           </li>
           <li>
             <Link to={prefixLink('/sass/')}>Sass</Link>
-          </li>
-          <li>
-            <Link to={prefixLink('/less/')}>Less</Link>
           </li>
         </ul>
       </div>
