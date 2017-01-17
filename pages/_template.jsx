@@ -20,9 +20,6 @@ module.exports = React.createClass({
           wrapperStyle={{
             marginBottom: rhythm(1),
           }}
-          style={{
-            background: 'lightgray',
-          }}
         >
           <Container
             style={{
@@ -31,15 +28,7 @@ module.exports = React.createClass({
               padding: `${rhythm(1)} ${rhythm(3/4)}`,
             }}
           >
-            <Link
-              to={prefixLink('/')}
-              style={{
-                color: 'black',
-                textDecoration: 'none',
-              }}
-            >
-              Gatsby!!!
-            </Link>
+            Advanced AWS Meetup
           </Container>
         </Headroom>
         <Container
