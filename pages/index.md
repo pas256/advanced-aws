@@ -78,7 +78,7 @@ We love having people that:
 
 ## [>> I want to speak! <<](http://bit.ly/aws-speak)
 
-Want we don't want are sales pitches for products. If you are a vendor, we welcome you to [sponsor](/advancedaws/sponsor/) our meetup instead.
+What we don't want are sales pitches for products. If you are a vendor, we welcome you to [sponsor](/advancedaws/sponsor/) our meetup instead.
 
 # Sponsorship Opportunities
 
